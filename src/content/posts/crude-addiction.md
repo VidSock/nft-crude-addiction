@@ -5,10 +5,10 @@ slug: /crude-addiction
 date: 2021-08-19 10:43
 description: Life is not always what it seems
 youtuber: ""
-youtubestart: "0"
-youtubeend: "0"
 youtubemute: "1"
 youtubecontrols: "0"
+youtubestart: "0"
+youtubeend: "0"
 youtubeshoworiginal: ""
 youtubersuggestion1: ""
 youtubersuggestion2: ""
@@ -17,7 +17,7 @@ comments: ""
 shareable: "1"
 isnftforsale: "1"
 nftlink: ""
-nftdrop: 2021-09-24T21:53:43
+nftdrop: 2021-10-01T03:39:45
 nftredeem: ""
 featuredImage: /assets/crude-addiction-header.jpg
 underlayImage: /assets/transparent.png
